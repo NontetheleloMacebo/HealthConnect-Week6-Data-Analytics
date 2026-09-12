@@ -1,4 +1,4 @@
-# HealthConnect Week 6 — Advanced Analytics & Decision Support
+# HealthConnect Week 6 - Advanced Analytics & Decision Support
 
 ## Overview
 
